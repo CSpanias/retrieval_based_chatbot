@@ -12,12 +12,12 @@ _Use case(s) for this chatbot:_
 1. **Communicating basic information** about my skills, work experiences, and interests on future employees and collaborators.
 
 _List of techniques used:_
-1. Intent Classification
-2. Entity Recognition
-3. Response Selection
+1. **Intent Classification**, **Entity Recognition**, **Response Selection**
+2. **Term Frequency-Inverse Document Frequency**
+3. **Word Embeddings** using **Word2Vec**
 
 _List of dependencies:_
-1. Libraries
+1. Libraries: nltk, spaCy, re, collections, sklearn
 2. Datasets
 3. Visual (gif, ss with the CB in action)
 
